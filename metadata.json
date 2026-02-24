@@ -1,0 +1,7 @@
+{
+  "name": "Time Travel Photo Booth",
+  "description": "Take a photo and travel through time or edit it with AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
